@@ -1,4 +1,9 @@
-#Walkthroughs for data analysis
+# Walkthroughs for data analysis
+
+#### Datasets:
+* [Iris](data/iris)
+* [Acute malnutrition microbiome](microbiome__acute-malnutrition)
+* [Dental caries microbiome](microbiome__dental-caries)
 
 **File naming scheme:**
 
