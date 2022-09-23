@@ -1,5 +1,6 @@
 # microbiome__acute-malnutrition
-The `microbiome__acute-malnutrition` dataset contains the gut microbiome (16S rRNA OTUs) from fecal samples of Gambian children with and without acute malnutrition.
+
+This dataset contains the gut microbiome (16S rRNA OTUs) from fecal samples of Gambian children with and without acute malnutrition.
 
 * `X.tsv.gz`  - (107 samples, 155 features) compositional data with counts for each OTU in each sample. 
 

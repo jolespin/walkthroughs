@@ -1,5 +1,5 @@
 # Iris
-The iris dataset is a classic used for classification, statistical analysis, and machine learning.  
+This dataset is a classic used for classification, statistical analysis, and machine learning.  
 
 * `X` (150 samples, 4 features) contains specimen measurements
 * `y` (150 samples,) contains species classification

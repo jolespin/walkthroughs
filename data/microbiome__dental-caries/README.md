@@ -1,5 +1,6 @@
 # microbiome__dental-caries
-The `microbiome__dental-caries` dataset contains the  oral microbiome (16S rRNA OTUs) from supragingival plaque samples of Australian children (twin-study) with and without dental caries.
+
+This dataset contains the  oral microbiome (16S rRNA OTUs) from supragingival plaque samples of Australian children (twin-study) with and without dental caries.
 
 * `X.tsv.gz`  - (473 samples, 481 features) compositional data with counts for each OTU in each sample. 
 
