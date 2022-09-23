@@ -2,8 +2,8 @@
 
 #### Datasets:
 * [Iris](data/iris)
-* [Acute malnutrition microbiome](microbiome__acute-malnutrition)
-* [Dental caries microbiome](microbiome__dental-caries)
+* [Acute malnutrition microbiome](data/microbiome__acute-malnutrition)
+* [Dental caries microbiome](data/microbiome__dental-caries)
 
 **File naming scheme:**
 
